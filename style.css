@@ -121,3 +121,13 @@ footer {
         width: auto;
     }
 }
+.page-content {
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px 20px;
+    line-height: 1.8;
+}
+
+.page-content h1 {
+    color: #0B5ED7;
+}
