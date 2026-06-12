@@ -131,3 +131,50 @@ footer {
 .page-content h1 {
     color: #0B5ED7;
 }
+.page-hero {
+    background: linear-gradient(135deg, #0b5ed7, #3b82f6);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.page-hero h1 {
+    font-size: 38px;
+}
+
+.page-box {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+    margin: 25px auto;
+    max-width: 900px;
+}
+
+.page-box h2 {
+    color: #0b5ed7;
+}
+.page-hero {
+    background: linear-gradient(135deg, #0b5ed7, #3b82f6);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.page-content {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+.page-box {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+    margin-bottom: 25px;
+}
+
+.page-box h2 {
+    color: #0b5ed7;
+}
